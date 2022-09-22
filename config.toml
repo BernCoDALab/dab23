@@ -1,18 +1,20 @@
-baseURL = "https://example.com/"
+baseURL = "https://dab23.archaeological.science"
 theme = "salinger"
-title = "salinger"
-copyright = '2001 John Doe'
+title = "DAB23"
+copyright = ''
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
-DateFormat = "January 2006"
+DateFormat = "1 January 2006"
 
-author = "John Doe"
-description = "I'm a computer engineering student based in Modena, Italy. I like developing and designing random stuffs."
-header = "<strong>Hi, I'm John. 👋 </strong>"
+author = "DAB23 Scientific Committee"
+description = ""
+header = "Digital Archaeology Bern"
 keywords = [ "Portfolio", "developer", "coding", "maker"]
-showHeaderOnHomepage = false
 #googleAnalytics = ""
+
+showHeaderOnHomepage = true
+toc = true
 twemoji = true
 text404 = "Since the page you were looking for seems like doesn't exist, we <strong>strongly</strong> suggest you to better investigate the URL and/or go back to the <a href=\"/\">home</a>. </br></br> <iframe src=\"https://giphy.com/embed/aCKMaeduKfFXG\" width=\"480\" height=\"480\" frameBorder=\"0\" class=\"giphy-embed\" allowFullScreen></iframe>"
 #fontawesomekitcode = ""
@@ -23,42 +25,35 @@ text404 = "Since the page you were looking for seems like doesn't exist, we <str
   'projects' = '/:slug/'
 
 [[params.social]]
-name = "github"
-url = "https://github.com/example"
-icon = "fa fa-github"
-before = "Reach me on "
-
-[[params.social]]
-name = "twitter"
-url = "https://twitter.com/example"
-icon = "fa fa-twitter"
-before = "and "
-
-[[params.social]]
 name = "email"
 icon = "fa fa-envelope"
-url = "mailto:hi@john.com"
-before = ", or drop me a line on"
+url = "mailto:dab2023@iaw.unibe.ch"
 
 [[params.social]]
-name = "email"
-icon = "fa fa-telegram"
-url = "https://t.me/john"
-before = "and on "
-after = "."
-
-
+name = "github"
+icon = "fa fa-github"
+url = "https://github.com/BernCoDALab/dab23"
 
 [Menu]
 [[Menu.Main]]
-name = "Projects."
-url = "/projects/"
+name = "About"
+url = "/"
 weight = 1
 
 [[Menu.Main]]
-name = "Contact me."
-url = "mailto:mail@mail.com"
-weight = 2
+name = "Key Dates"
+url = "/calendar"
+weight = 5
+
+[[Menu.Main]]
+name = "Venue"
+url = "/venue"
+weight = 10
+
+[[Menu.Main]]
+name = "Organising Committee"
+url = "/committee"
+weight = 15
 
 [taxonomies]
 	tag = "tags"

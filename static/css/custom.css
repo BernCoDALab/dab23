@@ -1,0 +1,20 @@
+body {
+	font-family: montserrat,sans-serif;
+}
+
+main {
+	margin: 0 auto;
+    width: 960px;
+}
+
+.big-title {
+	max-width: none;
+}
+
+.content {
+	max-width: none;
+}
+
+ul {
+  line-height: 1.5;
+}

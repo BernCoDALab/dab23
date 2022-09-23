@@ -1,3 +1,9 @@
+![Image alt text](dab_hero.jpg)
+<small style="float: right;">
+Photo by <a href="https://unsplash.com/@phonvanna?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vanna Phon</a> on <a href="https://unsplash.com/s/photos/key?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</small>
+<div style="margin-bottom: 50px;"></div>
+
 # Advancing open research into the next decade
 
 Following the success of the [inaugural 2019 colloquium](https://www.oeschger.unibe.ch/services/events/conferences/past_conferences/digital_archaeology/announcement/index_eng.html), the second iteration of 'Digital Archaeology Bern' (DAB) will take place at the University of Bern on the 1st to 3rd February, 2023.
@@ -15,3 +21,4 @@ We hope the colloquium will provoke debate on the status and role of 'open' arch
 * Rachel Opitz, Senior Lecturer in Spatial Archaeometry, School of Humanities, University of Glasgow, UK
 * Colleen Morgan, Lecturer in Digital Archaeology and Heritage, University of York, UK
 * Julian Bogdani, Research Fellow, University of Rome La Sapienza, Department of Archaeology, Italy
+

@@ -6,3 +6,12 @@ Ten years ago, a groundbreaking special issue of *World Archaeology* on 'Open Ar
 
 We hope the colloquium will provoke debate on the status and role of 'open' archaeological research with the spectrum of archaeological practice. We would also like to consider how, as digital archaeologists, we should position ourselves under the emerging umbrella of the digital humanities, and what we can learn from the paths taken there. The colloquium will be a forum for both junior and senior researchers from different fields to discuss and share their work and experiences.
 
+## Invited speaker confirmed:
+
+* Ben Marwick, Associate Professor, Department of Anthropology, University of Washington
+* Alessio Palmisano, Postdoctoral Fellow, Historisches Seminar der LMU, Germany
+* Julian Richards, Professor and Director of the Archaeology Data Service, University of York, UK
+* Iza Romanowska, Postdoc, Aarhus Institute of Advanced Studies, Denmark
+* Rachel Opitz, Senior Lecturer in Spatial Archaeometry, School of Humanities, University of Glasgow, UK
+* Colleen Morgan, Lecturer in Digital Archaeology and Heritage, University of York, UK
+* Julian Bogdani, Research Fellow, University of Rome La Sapienza, Department of Archaeology, Italy

@@ -37,7 +37,7 @@ url = "https://github.com/BernCoDALab/dab23"
 [Menu]
 [[Menu.Main]]
 name = "About"
-url = "/"
+url = "/about"
 weight = 1
 
 [[Menu.Main]]

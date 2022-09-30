@@ -43,6 +43,16 @@ url = "/about"
 weight = 1
 
 [[Menu.Main]]
+name = "Keynote Speakers"
+url = "/speakers"
+weight = 3
+
+[[Menu.Main]]
+name = "Call for Papers"
+url = "/news/call_for_papers/"
+weight = 4
+
+[[Menu.Main]]
 name = "Key Dates"
 url = "/calendar"
 weight = 5
@@ -51,11 +61,6 @@ weight = 5
 name = "Venue"
 url = "/venue"
 weight = 10
-
-[[Menu.Main]]
-name = "Organising Committee"
-url = "/committee"
-weight = 15
 
 [taxonomies]
 	tag = "tags"

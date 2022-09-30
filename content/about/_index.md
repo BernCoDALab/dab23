@@ -1,7 +1,7 @@
 ---
 title: "About DAB23"
 ---
-## Advancing open research into the next decade
+### Advancing open research into the next decade
 
 Following the success of the [inaugural 2019 colloquium](https://www.oeschger.unibe.ch/services/events/conferences/past_conferences/digital_archaeology/announcement/index_eng.html), the second iteration of 'Digital Archaeology Bern' (DAB) will take place at the University of Bern on the 1st to 3rd February, 2023.
 
@@ -9,3 +9,39 @@ Ten years ago, a groundbreaking special issue of *World Archaeology* on 'Open Ar
 
 We hope the colloquium will provoke debate on the status and role of 'open' archaeological research with the spectrum of archaeological practice. We would also like to consider how, as digital archaeologists, we should position ourselves under the emerging umbrella of the digital humanities, and what we can learn from the paths taken there. The colloquium will be a forum for both junior and senior researchers from different fields to discuss and share their work and experiences.
 
+### Session format
+
+The colloquium will consist of three main sessions dealing with the following topics:
+
+* The impact and significance of open science in archaeology to date
+* The interaction between archaeology, open science and the digital humanities
+* Practical applications and exemplars for open science in archaeological research in the next decade
+
+All three sessions will feature presentations from [invited keynote speakers](/speakers) and from an open [call for papers](/news/call_for_papers/).
+
+### Workshops & excursion
+
+Participants will have the opportunity to join one of two workshops or an archaeological field trip on the third day of the colloquium. 
+Participants of the workshops (beginners & advanced) will learn about the principles of open research in archaeology and its real world application.
+
+### Publication
+
+The publication of the colloquium's contributions is planned. 
+Further details to be announced.
+
+### Organising Committee
+
+**Maria Elena Castiello**  
+Institute for Archaeological Sciences, University of Bern
+
+**Martin Hinz**  
+Institute for Archaeological Sciences, University of Bern
+
+**Julian Laabs**  
+Christian-Albrecht University of Kiel
+
+**Cynthia Marti**  
+Institute for Archaeological Sciences, University of Bern
+
+**Joe Roe**  
+Institute for Archaeological Sciences, University of Bern

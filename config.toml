@@ -7,8 +7,8 @@ ignoreErrors = ["error-remote-getjson"]
 [params]
 DateFormat = "1 January 2006"
 
-author = "DAB23 Scientific Committee"
-description = ""
+author = "DAB23 Organising Committee"
+description = "Colloquium held at the University of Bern, 1–3 February 2023."
 header = "Digital Archaeology Bern"
 keywords = [ "Portfolio", "developer", "coding", "maker"]
 #googleAnalytics = ""
@@ -27,7 +27,7 @@ text404 = "Since the page you were looking for seems like doesn't exist, we <str
 [[params.social]]
 name = "email"
 icon = "fa fa-envelope"
-url = "mailto:dab2023@iaw.unibe.ch"
+url = "mailto:dab@iaw.unibe.ch"
 
 [[params.social]]
 name = "github"

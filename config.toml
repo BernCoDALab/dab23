@@ -13,6 +13,8 @@ header = "Digital Archaeology Bern"
 keywords = [ "Portfolio", "developer", "coding", "maker"]
 #googleAnalytics = ""
 
+mainSections = ['news']
+
 showHeaderOnHomepage = true
 toc = true
 twemoji = true

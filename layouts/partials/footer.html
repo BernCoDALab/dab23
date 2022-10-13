@@ -1,0 +1,13 @@
+<footer style="font-size: 12px;">
+    {{$footerText := string ""}}
+    {{ with .Site.Copyright }}
+    {{$footerText = . | safeHTML}}
+    {{else}}
+    {{$footerText = .Site.Title }}
+    {{end}}
+
+    <a href="https://berncodalab.github.io/" title="Bern Computational and Digital Archaeology Lab" style="display: block; font: bold 16px 'Raleway', 'HelveticaNeue-Light', Arial, sans-serif; text-transform: uppercase; text-decoration: none;"><img src="/images/codalab_logo.png" style="float: left; width: 48px; height: 48px; margin: -8px 8px 0 0;">Bern<br>CoDA Lab</a>
+       
+	    <p>Website made with <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/jacksalici/salinger-theme">Salinger</a>.</p>
+   
+</footer>

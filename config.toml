@@ -48,8 +48,8 @@ url = "/speakers"
 weight = 3
 
 [[Menu.Main]]
-name = "Call for Papers"
-url = "/news/call_for_papers/"
+name = "Registration"
+url = "https://www.conftool.com/dab2023"
 weight = 4
 
 [[Menu.Main]]

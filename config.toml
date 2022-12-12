@@ -29,7 +29,7 @@ text404 = "Since the page you were looking for seems like doesn't exist, we <str
 [[params.social]]
 name = "email"
 icon = "fa fa-envelope"
-url = "mailto:dab@iaw.unibe.ch"
+url = "mailto:dab.iaw@unibe.ch"
 
 [[params.social]]
 name = "github"

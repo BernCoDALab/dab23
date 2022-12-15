@@ -1,0 +1,17 @@
+{{ define "main" }}
+    <main>
+        <h2 class="term-title">{{.Title}}</h2>
+        <div class="content">{{- .Content -}}</div>
+
+	{{range .Pages.GroupByParam "session" }}
+
+		<h3>{{ .Key }}</h3>
+
+		<div id="posts">
+			{{ range sort .Pages "Params.format" "asc" }}
+				{{.Render "li"}}
+			{{ end }}
+		</div>
+
+	{{ end }}
+{{ end }}

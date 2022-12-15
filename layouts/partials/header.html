@@ -1,0 +1,36 @@
+
+{{if or (not .IsHome) (eq .Site.Params.showheaderonhomepage true)}}
+<header class="header">
+  <nav class="navbar">
+  
+    <a class="logo" href="{{ .Site.BaseURL }}">
+      {{if os.FileExists "static/logo.png"}}
+      <img src="{{.Site.BaseURL}}/logo.png" alt="{{.Site.Title}}" />
+      {{else}}
+      {{.Site.Title}}
+      {{end}}
+
+      <span class="logo-more">Digital Archaeology Bern</span>
+    </a>
+
+  
+    
+      <ul class="nav-menu">
+       
+      {{range .Site.Menus.main.ByWeight -}}
+      <li class="nav-item">
+        <a href="{{.URL}}" class="nav-link">{{- .Name -}}</a>
+      </li>
+      {{- end}}
+  </ul>
+      
+    </nav>
+
+  
+
+</div>
+
+</header>
+{{else}}
+{{- end}}
+

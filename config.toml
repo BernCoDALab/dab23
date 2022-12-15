@@ -43,8 +43,8 @@ url = "/about"
 weight = 1
 
 [[Menu.Main]]
-name = "Keynote Speakers"
-url = "/speakers"
+name = "Abstracts"
+url = "/abstracts"
 weight = 3
 
 [[Menu.Main]]

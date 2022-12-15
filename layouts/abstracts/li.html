@@ -1,0 +1,13 @@
+<li class="li-post">
+	<a href="{{.Permalink}}">
+		<h6 class="li-meta">
+			{{ delimit (apply .Params.authors "index" "." "name") ", " }}
+		</h6>
+
+		<p class="li-title">
+		{{with .Params.Description}} {{.}}<br />
+		{{else}} {{.Title | markdownify}}<br />
+		{{end}}
+		</p>
+	</a>
+</li>

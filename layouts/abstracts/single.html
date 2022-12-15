@@ -1,0 +1,35 @@
+{{ define "main" }}
+<article>
+	<div class="post-header">
+		<h1 class="name">{{ .Title | markdownify }}</h1>
+		<h6 class="meta">{{ .Params.session }} | {{ .Params.format }}</h6>
+
+		<ul class="author-list">
+		{{ range .Params.authors }}
+			<li>
+				{{ .name }}
+				{{ with .email }}<br /><span class="author-email"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ . }}">{{ . }}</a></span>{{ end }}
+				{{ with .affiliation }}<br /><span class="author-affiliation">{{ . }}</span>{{ end }}
+			</li>
+		{{ end }}
+		</ul>
+
+	</div>
+
+	{{if .Params.toc}}
+	<aside class="toc">
+		<h4>Table of Content</h4>
+		{{ .TableOfContents }}
+	</aside>
+	{{end}}
+
+	<div class="post-text">{{- .Content -}}</div>
+
+
+
+	{{with .Params.Tags}}   <h6 class="tags-footer"> Tags: {{range .}}
+		<a href="/tags/{{ . | urlize}}">#{{- . -}}</a>
+		{{- end -}}</h6> {{- end -}}
+
+</article>
+{{ end }}

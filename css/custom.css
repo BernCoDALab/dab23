@@ -9,3 +9,26 @@
 ul {
   line-height: 1.5;
 }
+
+.logo-more::before {
+	content: "| ";
+}
+
+.logo-more {
+	color: #666;
+	font-weight: normal;
+}
+
+.author-list {
+	margin-top: 2em;
+	list-style-type: none;
+}
+
+.author-list li {
+	margin-bottom: 1em;
+}
+
+.author-email,
+.author-affiliation {
+	color: #666;
+}

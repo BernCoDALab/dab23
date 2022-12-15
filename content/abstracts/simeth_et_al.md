@@ -1,5 +1,5 @@
 ---
-title: "From trowel to AI - Open Source supported reconstruction of a Bronze Age fortification"
+title: "From trowel to AI: open source-supported reconstruction of a Bronze Age fortification"
 authors:
 - name: "Thomas Simeth"
 - name: "Carola Metzner-Nebelsick"

@@ -1,5 +1,5 @@
 ---
-title: "Wikidata as a Knowledge Base and Research Tool for Open Science in Archaeology"
+title: "Wikidata as a knowledge base and research tool for open science in archaeology"
 authors:
 - name: "Sophie C. Schmidt"
   affiliation: "Freie Universität Berlin"

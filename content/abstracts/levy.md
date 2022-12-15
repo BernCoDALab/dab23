@@ -1,5 +1,5 @@
 ---
-title: "Open Chronology: Towards FAIR and Transparent Chronology Building"
+title: "Open chronology: towards FAIR and transparent chronology building"
 authors:
 - name: "Eythan Levy"
   affiliation: "University of Bern"

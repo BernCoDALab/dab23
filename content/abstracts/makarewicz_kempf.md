@@ -1,5 +1,5 @@
 ---
-title: "Scale, resolution, and the demands of computational modelling: A ‘Divergence Problem’ in archaeology"
+title: "Scale, resolution, and the demands of computational modelling: a 'divergence problem' in archaeology"
 authors:
 - name: "Cheryl Makarewicz"
   affiliation: "University of Kiel"

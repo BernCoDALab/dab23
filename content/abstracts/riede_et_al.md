@@ -1,5 +1,5 @@
 ---
-title: "CLIOdynamic ARCHaeology: Computational approaches to critical pinch points in European Final Palaeolithic archaeology and climate change"
+title: "CLIOdynamic ARCHaeology: computational approaches to critical pinch points in European Final Palaeolithic archaeology and climate change"
 authors:
 - name: "Felix Riede"
   affiliation: "Aarhus University"

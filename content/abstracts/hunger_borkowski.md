@@ -1,5 +1,5 @@
 ---
-title: "The Digital Atlas of Notched Bone Artefacts (DANBA): A Collaborative Open Science Database"
+title: "The Digital Atlas of Notched Bone Artefacts (DANBA): a collaborative open science database"
 authors:
 - name: "Silvana Hunger"
   affiliation: "University of Bern"

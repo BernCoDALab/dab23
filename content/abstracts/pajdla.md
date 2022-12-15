@@ -1,5 +1,5 @@
 ---
-title: "Archaeological information system of the Czech Republic: Towards open data and research"
+title: "Archaeological information system of the Czech Republic: towards open data and research"
 authors:
 - name: "Petr Pajdla"
   affiliation: "Czech Academy of Sciences"

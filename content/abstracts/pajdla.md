@@ -6,6 +6,7 @@ authors:
   email: "petr.pajdla@proton.me"
 format: "Standard presentation"
 session: "S1: Open Science in Archaeology: Impact & Significance"
+weight: 20
 ---
 
 The Archaeological information system of the Czech Republic (AIS CR, <https://www.aiscr.cz/>) is a core infrastructure of Czech archaeology. It integrates digital services and resources aimed at various stakeholders, e. g. the general public, professional archaeologists, memory institutions, and researchers.  AIS CR fundamental mission is to enable "Open Science Archaeology" by providing FAIR data documenting current and past archaeological fieldworks including excavations, surveys, metal detecting finds, etc. Currently, AIS CR publishes more than 150,000 records on fieldwork events and documents, including 25,000 aerial images, 75,000 excavation reports, and more. The information in the AIS CR covers the area of the Czech Republic from ca. the first half of the 19th century.

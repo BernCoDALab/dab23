@@ -9,6 +9,7 @@ authors:
   email: "martin.hinz@unibe.ch"
 format: "Standard presentation"
 session: "S3: Practical Applications"
+weight: 180
 ---
 
 Chronometric data has been one of the principle domains in which open data and open science approaches have been applied over the last ten years.

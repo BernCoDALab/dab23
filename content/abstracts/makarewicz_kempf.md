@@ -7,6 +7,7 @@ authors:
   affiliation: "University of Kiel"
 format: "Standard presentation"
 session: "S2: Archaeology, Open Science & the Digital Humanities"
+weight: 60
 ---
 
 Archaeology, the archaeological sciences, and paleoenvironmental sciences are now generating increasingly robust and large bodies of diverse data sets that span vast temporal and spatial scales. Consequently, archaeologists now enjoy large, thickly described data sets, usually generated as part of targeted efforts intended to address specific research questions that document ancient human behavioral dynamics at local or sub-regional scales. However, these diverse data are only rarely united under robust modelling frameworks, ones explicitly designed to interrogate the correlative power of hypothesized relationships between defined variables. Furthermore, the production of data at the (archaeological) site level means practioners are confronted with a patchwork of spatially and temporally disjunct datasets that presently precludes robust interpolation of truly global data sets required for 'Big Picture' narratives. 

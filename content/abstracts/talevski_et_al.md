@@ -10,6 +10,7 @@ authors:
   affiliation: "Istituto per le Tecnologie Applicate ai Beni Culturali"
 format: "Standard presentation"
 session: "S2: Archaeology, Open Science & the Digital Humanities"
+weight: 90
 ---
 
 The process of the reasoning behind the available archaeological data is a very important segment in archaeological research. Whether it's about the decision-making process during the field activities, whether it's about publishing the results. Here, the experience of the team behind the excavation is of exceptional importance, and of course, the selection of appropriate and adequately applied methods, techniques, and technology for answering the existing questions. All in case of problematic approach in solving particular problems about the past.

@@ -8,7 +8,7 @@
 		<h3>{{ .Key }}</h3>
 
 		<div id="posts">
-			{{ range sort .Pages "Params.format" "asc" }}
+			{{ range .Pages }}
 				{{.Render "li"}}
 			{{ end }}
 		</div>

@@ -1,5 +1,5 @@
 ---
-title: "Keynote"
+title: "**Keynote**"
 authors:
 - name: "Ben Marwick"
   affiliation: "University of Washington"

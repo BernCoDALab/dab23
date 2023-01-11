@@ -7,8 +7,9 @@ authors:
 - name: "Eythan Levy"
   affiliation: "University of Bern"
   email: "eythan.levy@gmail.com"
-format: "Poster"
-session: "S4: Poster session"
+format: "Standard presentation"
+session: "S2: Archaeology, Open Science & the Digital Humanities"
+weight: 60
 ---
 
 The paper presents ongoing research of the Swiss-Israeli project "Stamp-seals of the

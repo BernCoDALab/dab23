@@ -32,3 +32,13 @@ ul {
 .author-affiliation {
 	color: #666;
 }
+
+.programme-entry {
+	display: flex;
+}
+
+.programme-time {
+	font-size: small;
+	flex-shrink: 1;
+	width: 6em;
+}

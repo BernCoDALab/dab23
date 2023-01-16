@@ -7,6 +7,8 @@ authors:
 format: "Standard presentation"
 session: "S1: Open Science in Archaeology: Impact & Significance"
 weight: 40
+day: "Wed"
+time: "12.30"
 ---
 
 Archaeological research is inherently collaborative, in that it involves many people coming together to examine a material assemblage of mutual interest by implementing a variety of tools and methods in tandem. Independent projects establish organizational structures and information systems to help coordinate labour and pool information derived thereof into a communal data stream, which can then be applied towards the production and publication of analytical findings. Albeit not necessarily egalitarian, and with different expectations set for people assigned different roles, archaeological projects thus constitue a form of commons, whereby participants contribute to and obtain value from a collective endeavour. Adopting open research practices, including sharing data beyond a project’s original scope, involves altering the collaborative commitments that bind work together. This paper, drawn from my doctoral dissertation, examines how archaeologists are presently navigating this juncture between established professional norms and expectations on the one hand, and the potential benefits and limitations afforded by open research on the other.

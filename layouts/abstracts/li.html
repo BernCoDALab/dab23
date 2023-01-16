@@ -1,4 +1,7 @@
-<li class="li-post">
+<li class="programme-entry li-post">
+	<span class="programme-time">
+		{{ .Params.time }}
+	</span>
 	<a href="{{.Permalink}}">
 		<h6 class="li-meta">
 			{{ delimit (apply .Params.authors "index" "." "name") ", " }}

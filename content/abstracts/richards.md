@@ -6,6 +6,8 @@ authors:
 format: "Keynote presentation"
 session: "S1: Open Science in Archaeology: Impact & Significance"
 weight: 10
+day: "Wed"
+time: "10.30"
 ---
 
 Research e-infrastructures, digital archives, and data services have become important pillars of scientific enterprise that in recent decades has become ever more collaborative, distributed, and data intensive. The archaeological research community has been an early adopter of digital tools for data acquisition, organization, analysis, and presentation of research results of individual projects. However, the provision of e-infrastructure and services for data sharing, discovery, access, and re-use has lagged behind. In the UK the Archaeology Data Service was established in 1996, and other countries have followed with their own archaeological repositories. But the international situation is still very patchy with some countries still reluctant to provide open access to heritage data, and others lacking capacity and expertise. The EU-funded ARIADNE e-infrastructure has begun to address this, enabling data providers to register and provide open access to resources through the ARIADNE data portal, facilitating discovery, access, and Open Science research.

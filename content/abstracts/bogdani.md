@@ -6,6 +6,8 @@ authors:
 format: "Keynote presentation"
 session: "S3: Practical Applications"
 weight: 160
+day: "Thu"
+time: "13.30"
 ---
 
 In the Humanities, Archaeology is probably the discipline that before any other has experimented with digital tools. Databases, GIS platforms, CAD software, vector and raster graphics software and statistical algorithms have always fascinated younger generations of archaeologists that have never stopped adapting methodologies developed by others to answer their own questions.

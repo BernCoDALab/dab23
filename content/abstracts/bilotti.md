@@ -6,6 +6,8 @@ authors:
 format: "Standard presentation"
 session: "S3: Practical Applications"
 weight: 120
+day: "Thu"
+time: "9.30"
 ---
 
 In this contribution I model population dynamics and past land-use using predictive modelling on some case studies from the South Western Baltic region during the Neolithic and the Bronze Age. Besides the archaeological questions, I will focus on methodology and data availability. By definition, a model is a simplification of the reality that aims to explain observed systems and to predict unknown ones. Therefore, we always need to find a balance between complexity and universality, which can be seen as a sort of mathematical inequality, similar to the well-known Heisenberg uncertainty principle, which asserts the limit in the accuracy of measurement of a particle position and momentum. In our field, this is true in at least to respects:

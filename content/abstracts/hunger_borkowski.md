@@ -10,6 +10,8 @@ authors:
 format: "Standard presentation"
 session: "S3: Practical Applications"
 weight: 130
+day: "Thu"
+time: "10.30"
 ---
 
 The Digital Atlas of Notched Bone Artefacts (DANBA) collects data on notched bone artefacts on a global scale to implement data science methods in a cross-cultural approach for the functional analysis of notched bone artefacts.

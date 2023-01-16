@@ -8,6 +8,8 @@ authors:
 format: "Standard presentation"
 session: "S2: Archaeology, Open Science & the Digital Humanities"
 weight: 70
+day: "Wed"
+time: "14.30"
 ---
 
 [Wikidata](https://www.wikidata.org) is an open knowledge base, which a growing number of volunteers and researchers use to add content to the Linked Open Data Cloud. Linked Open Data (LOD) aims at interlinking openly available datasets and thereby facilitating the combination and joint processing of existing data from various digital sources. Wikidata functions as the central storage for structured data of Wikimedia projects such as Wikipedia and Wikimedia Commons and does not only record statements, but also their sources, acting as a secondary database. It can be edited by anyone, the data is multilingual and available under the Public Domain (CC0).  Archaeological data has already been integrated using i. a. subject specific classes, e.g. ‘Bronze Age’ ([Q11761](https://www.wikidata.org/wiki/Q11761)) as an “archaeological age” ([Q15401699](https://www.wikidata.org/wiki/Q15401699)) and properties, such as the ‘Art & Architecture Thesaurus ID’ ([P1014](https://www.wikidata.org/wiki/Property:P1014)) to link concepts with the Getty AAT. Examples include data on Greek Vase Painters, Irish Ogham Stones, Samian Ware and African Red Slip Ware (Schmidt et al.  2022).

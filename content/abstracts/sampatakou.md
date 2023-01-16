@@ -2,6 +2,8 @@
 title: "Digital media for communicating archaeological research: text, Twine, VR"
 authors:
 - name: "Despoina V. Sampatakou"
+format: "Poster"
+session: "S4: Poster session"
 ---
 
 Archaeologists are keen to try digital media and cutting-edge technology to study the

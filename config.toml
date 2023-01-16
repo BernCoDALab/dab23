@@ -43,7 +43,7 @@ url = "/about"
 weight = 1
 
 [[Menu.Main]]
-name = "Abstracts"
+name = "Programme"
 url = "/abstracts"
 weight = 3
 

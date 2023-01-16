@@ -7,6 +7,8 @@ authors:
 format: "Standard presentation"
 session: "S3: Practical Applications"
 weight: 200
+day: "Thu"
+time: "16.00"
 ---
 
 Abstract to be confirmed.

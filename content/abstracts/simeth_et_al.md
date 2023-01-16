@@ -7,6 +7,8 @@ authors:
 format: "Standard presentation"
 session: "S2: Archaeology, Open Science & the Digital Humanities"
 weight: 80
+day: "Wed"
+time: "15.00"
 ---
 
 The presentation shows open source methods to investigate, analyze and reconstruct the Bronze Age fortification at Stätteberg near the Bavarian Danube. The entire workflow from digital prospection, documentation of the excavation, reconstruction of the wall, material quantities and labor calculations, to the creation of vivid reconstructions and atmospheric illustrations using 3D software and AI, will be presented.

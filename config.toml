@@ -48,6 +48,11 @@ url = "/abstracts"
 weight = 3
 
 [[Menu.Main]]
+name = "Workshops"
+url = "/workshops"
+weight = 3.5
+
+[[Menu.Main]]
 name = "Registration"
 url = "https://www.conftool.com/dab2023"
 weight = 4

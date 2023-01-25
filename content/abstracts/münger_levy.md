@@ -11,6 +11,7 @@ format: "Standard presentation"
 session: "S2: Archaeology, Open Science & the Digital Humanities"
 weight: 60
 day: "Wed"
+time: "14.00"
 ---
 
 The paper presents ongoing research of the Swiss-Israeli project "Stamp-seals of the

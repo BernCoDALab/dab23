@@ -4,7 +4,7 @@ authors:
 - name: "Sophie C. Schmidt"
   affiliation: "Freie Universität Berlin"
 - name: "Florian Thiery"
-  affiliation: "Römisch-Germanisches Zentralmuseum Mainz"
+  affiliation: "Leibniz-Zentrum für Archäologie (LEIZA)"
 format: "Standard presentation"
 session: "S2: Archaeology, Open Science & the Digital Humanities"
 weight: 70

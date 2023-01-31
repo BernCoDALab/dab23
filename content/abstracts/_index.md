@@ -36,7 +36,15 @@ All times are in Central European Time (CET, UTC+1).
 
 ## Streaming
 
-Talks will be streamed online via Zoom; a link will be posted here on the day of the conference.
+Talks will be [streamed online via Zoom](https://unibe-ch.zoom.us/j/65088690725?pwd=SUtVVGgvRHRaWmpmWldPbHdpbmJtZz09):
+
+    https://unibe-ch.zoom.us/j/65088690725?pwd=SUtVVGgvRHRaWmpmWldPbHdpbmJtZz09
+   
+    Meeting-ID: 650 8869 0725
+    Password: 794586
+
+It will also be possible to ask questions of the speakers online.
+All are welcome to participate.
 
 ## Scientific programme
 

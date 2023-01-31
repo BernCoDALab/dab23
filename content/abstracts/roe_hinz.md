@@ -38,6 +38,6 @@ We believe the XRONOS framework provides more open, more reliable, and more comp
 
 ## References
 
-* Bird, Darcy, Lux Miranda, Marc Vander Linden, Erick Robinson, R. Kyle Bocinsky, Chris Nicholson, José M. Capriles, et al. 2022. “p3k14c, a Synthetic Global Database of Archaeological Radiocarbon Dates.” *Scientific Data* 9 (1): 27. https://doi.org/10.1038/s41597-022-01118-7.
-* Bronk Ramsey, Christopher, Maarten Blaauw, Rebecca Kearney, and Richard A Staff. 2019. “The Importance of Open Access to Chronological Information: The IntChron Initiative.” *Radiocarbon* 61 (5): 1121–31. https://doi.org/10.  1017/RDC.2019.21.
-* Schmid, Clemens, Dirk Seidensticker, and Martin Hinz. 2019. “c14bazAAR: An R Package for Downloading and Preparing C14 Dates from Different Source Databases.” *Journal of Open Source Software* 4 (43): 1914. https://doi.org/10.21105/joss.01914.
+* Bird, Darcy, Lux Miranda, Marc Vander Linden, Erick Robinson, R. Kyle Bocinsky, Chris Nicholson, José M. Capriles, et al. 2022. "p3k14c, a Synthetic Global Database of Archaeological Radiocarbon Dates." *Scientific Data* 9 (1): 27. https://doi.org/10.1038/s41597-022-01118-7.
+* Bronk Ramsey, Christopher, Maarten Blaauw, Rebecca Kearney, and Richard A Staff. 2019. "The Importance of Open Access to Chronological Information: The IntChron Initiative." *Radiocarbon* 61 (5): 1121–31. https://doi.org/10.1017/RDC.2019.21.
+* Schmid, Clemens, Dirk Seidensticker, and Martin Hinz. 2019. "c14bazAAR: An R Package for Downloading and Preparing C14 Dates from Different Source Databases." *Journal of Open Source Software* 4 (43): 1914. https://doi.org/10.21105/joss.01914.

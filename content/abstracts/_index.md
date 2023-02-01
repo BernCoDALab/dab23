@@ -14,8 +14,8 @@ All times are in Central European Time (CET, UTC+1).
 | 08.00 | *Registration opens* |
 | 09.00-10.00 | Introduction & conference keynote |
 | 10.00–10.30 | *Coffee break* |
-| 10.30–12.30 | S1: Open Science in Archaeology: Impact & Significance |
-| 12.30–14.00 | *Lunch break* |
+| 10.30–12.00 | S1: Open Science in Archaeology: Impact & Significance |
+| 12.00–14.00 | *Lunch break* |
 | 14.00–15.30 | S2: Archaeology, Open Science & the Digital Humanities |
 | 15.30-16.00 | *Coffee break* |
 | 16.00–17.00 | S2: Archaeology, Open Science & the Digital Humanities |

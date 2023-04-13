@@ -2,8 +2,8 @@
 title: "Venue"
 ---
 
-DAB23 will be hosted by the [Institute for Archaeological Sciences](https://www.iaw.unibe.ch/index_ger.html) at the University Bern.
-The main venue will be at **Hallerstrasse 12** in the Länggasse district of Bern.
+DAB23 was hosted by the [Institute for Archaeological Sciences](https://www.iaw.unibe.ch/index_ger.html) at the University Bern.
+The main venue was at **Hallerstrasse 12** in the Länggasse district of Bern.
 
 <div style="margin: 20px 0px;">
 <iframe width="960" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.40431308746338%2C46.934498980532396%2C7.460961341857911%2C46.964820090249795&amp;layer=mapnik&amp;marker=46.94966168251326%2C7.4326372146606445" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=46.9497&amp;mlon=7.4326#map=15/46.9497/7.4326">View larger map</a></small>
